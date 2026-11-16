@@ -2,7 +2,7 @@
 
 Ingeniero en informática e **IT Support** en Maracaibo, Venezuela. Trabajo con redes (Cisco CCNA, MikroTik), servidores e infraestructura IT, y desarrollo software con Python y TypeScript.
 
-Portafolio con capturas de todos los proyectos: **[carlosherrera.xyz](https://www.carlosherrera.xyz)** · [LinkedIn](https://www.linkedin.com/in/carlosdhc03/)
+Portafolio con capturas de todos los proyectos: **[carlosherrera.xyz](https://www.carlosherrera.xyz)** · [LinkedIn](https://www.linkedin.com/in/carlosherrera-it/)
 
 ### Proyectos
 
