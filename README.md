@@ -1,4 +1,4 @@
-## Carlos Herrera
+## Carlos D. Herrera
 
 Ingeniero en informática e **IT Support** en Maracaibo, Venezuela. Trabajo con redes (Cisco CCNA, MikroTik), servidores e infraestructura IT, y desarrollo software con Python y TypeScript.
 
